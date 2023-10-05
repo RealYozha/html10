@@ -41,6 +41,6 @@ a {
     color: #F9F9F9;
 }
 
-a.logo:hover {
+a:hover {
     color: #121212;
 }
